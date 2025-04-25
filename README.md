@@ -8,6 +8,11 @@ as to what a 4to6 subnet router is, and why you would want one.
 This tool aims to simplify the transition, allowing you to type in the ipv4 address, and retrieving
 the ipv6 address for your tailnet.
 
+## Installation
+Installation can be performed via `cargo install tailscale-ip-translate`
+
+```shell
+
 ## Usage
 ```shell
 tailscale-ip-translate

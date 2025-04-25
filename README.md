@@ -11,7 +11,6 @@ the ipv6 address for your tailnet.
 ## Installation
 Installation can be performed via `cargo install tailscale-ip-translate`
 
-```shell
 
 ## Usage
 ```shell
